@@ -1,9 +1,11 @@
 ## Hi there 👋
 
 
-## **When Large Multimodal Models Confront Evolving Knowledge: Challenges and Pathways**
+## **KORE: Enhancing Knowledge Injection for Large Multimodal Models via Knowledge-Oriented Augmentations and Constraints**
 
-**Kailin Jiang**, Yuntao Du, Yukai Ding, Yuchen Ren, Ning Jiang, Zhi Gao, Zilong Zheng, Lei Liu, Bin Li, Qing Li. 【2025.3】 <br>
+**Kailin Jiang**, Hongbo Jiang, Ning Jiang, Zhi Gao, Jinhe Bi, Yuchen Ren, Bin Li, Yuntao Du, Lei Liu, Qing Li. 【2025.9】 <br>
+
+
 
 
 [![arXiv](https://img.shields.io/badge/Arxiv-2505.24449-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2505.24449) [![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-EVOKE-blue)](https://huggingface.co/datasets/kailinjiang/EVOKE) [![Models](https://img.shields.io/badge/%F0%9F%A4%97%20Models-EVOKE-blue)](https://huggingface.co/kailinjiang/EVOKE-Models) [![paperwithcode](https://img.shields.io/badge/PWC-EVOKE-blue?logo=paperswithcode)](https://paperswithcode.com/paper/when-large-multimodal-models-confront)  [![code](https://img.shields.io/badge/Code-EVOKE-blue?logo=github)](https://github.com/EVOKE-LMM/EVOKE) [![website](https://img.shields.io/badge/Website-EVOKE-orange?logo=homepage)](https://evoke-lmm.github.io/) [![airchina](https://img.shields.io/badge/数源AI-EVOKE-red?logo=airchina)]()
